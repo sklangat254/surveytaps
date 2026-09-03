@@ -26,5 +26,8 @@
   "till" : ".",
   "payhero" : "9283776",
   "payamount5" : "270",
-  "payhero1" : "."
+  "payhero1" : ".",
+  "tokenamount" : "500",
+  "payhero2" : "https://payhero-api.onrender.com",
+  "payhero3" : "https://payhero-api.onrender.com"
 }
