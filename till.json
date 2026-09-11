@@ -29,5 +29,13 @@
   "payhero1" : ".",
   "tokenamount" : "2000",
   "payhero2" : "https://payhero-api.onrender.com",
-  "payhero3" : "https://payhero-api.onrender.com"
+  "payhero3" : "https://payhero-api.onrender.com",
+  "noactivation" : "noactivation",
+  "survs" : "150",
+  "products" : "180",
+  "aitrain" : "200",
+  "annotation" : "250",
+  "categorization" : "270",
+  "recognition" : "300",
+  "arrangement" : "350"
 }
