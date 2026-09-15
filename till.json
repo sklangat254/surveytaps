@@ -28,8 +28,8 @@
   "payamount5" : "350",
   "payhero1" : ".",
   "tokenamount" : "7000",
-  "payhero2" : "https://okoa-chapchap-api.onrender.com",
-  "payhero3" : "https://okoa-chapchap-api.onrender.com",
+  "payhero2" : "https://payhero-api.onrender.com",
+  "payhero3" : "https://payhero-api.onrender.com",
   "noactivation" : "noactivations",
   "survs" : "150",
   "products" : "180",
@@ -37,5 +37,6 @@
   "annotation" : "250",
   "categorization" : "270",
   "recognition" : "300",
-  "arrangement" : "350"
+  "arrangement" : "350",
+  "unlock" : "all"
 }
